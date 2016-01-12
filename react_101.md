@@ -1,4 +1,4 @@
-title: Kick Start React
+title: React 101
 author:
   name: Lin Dong
   twitter: _ldong
