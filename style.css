@@ -11,3 +11,14 @@
   height: 300px;
   position: relative;
 }
+
+.logo {
+  background-image: url("./screenshots/logo.png");
+  background-repeat: no-repeat;
+  background-size: 126px 100px;
+  bottom: 20px;
+  height: 100px;
+  position: absolute;
+  right: 20px;
+  width: 126px;
+}

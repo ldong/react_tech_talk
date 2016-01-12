@@ -4,6 +4,8 @@ author:
   twitter: _ldong
   url: http://github.com/ldong
 style: style.css
+layout: layout.mustache
+template: default.mustache
 output: index.html
 controls: true
 
@@ -67,7 +69,6 @@ Facebook, Instagram, WalMart, Wordpress, and [more](http://builtwithreact.io/)
 --
 
 ## **How to use it?**
-
 1. Must include these two libraries in order to use [React](https://facebook.github.io/react/)
 
     ```text
