@@ -55,7 +55,7 @@ What makes it really fast:
 
 1. Efficient *diff* algorithms.
 
-    ![](http://calendar.perfplanet.com/wp-content/uploads/2013/12/vjeux/6.png)
+    ![](./screenshots/diff.png)
 
 2. Batching DOM read/write operations.
 3. Efficient update of sub-tree only.
