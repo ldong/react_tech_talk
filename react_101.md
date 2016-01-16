@@ -17,7 +17,7 @@ controls: true
 
 --
 
-## React Outline
+## Outline
 
 * What
 * Why
@@ -91,7 +91,7 @@ Facebook, Instagram, WalMart, Wordpress, and [more](http://builtwithreact.io/)
 --
 ### [React Life Cycle](https://facebook.github.io/react/docs/component-specs.html)
 
-![](./screenshots/react_life_cycle3.jpg)
+<img src="./screenshots/react_life_cycle3.png" class="react-lifecycle"/>
 
 --
 
