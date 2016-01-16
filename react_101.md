@@ -31,6 +31,10 @@ controls: true
 * It was developed and used by Facebook starting 2013.
 
 --
+### Show Cases
+Facebook, Instagram, WalMart, Wordpress, and [more](http://builtwithreact.io/)
+
+--
 
 ## **Why use it?**
 * Learning Curve is shallow, easy to learn
@@ -62,12 +66,6 @@ What makes it really fast:
 
 --
 
-### Show Cases
-
-Facebook, Instagram, WalMart, Wordpress, and [more](http://builtwithreact.io/)
-
---
-
 ## **How to use it?**
 1. Must include these two libraries in order to use [React](https://facebook.github.io/react/)
 
@@ -84,9 +82,12 @@ Facebook, Instagram, WalMart, Wordpress, and [more](http://builtwithreact.io/)
 3. Sample: [w/](https://jsfiddle.net/reactjs/69z2wepo/), [w/o](https://jsfiddle.net/reactjs/5vjqabv3/), [w/ and w/o JSX side by side](http://tinyurl.com/j8ahhyt)
 
 --
-### [React Life Cycle](https://facebook.github.io/react/docs/component-specs.html)
 
-![](./screenshots/react_life_cycle1.png)
+### React Key Concept
+
+1. Web Page is predefined by a FSM(finite state machine)
+    <img src="./screenshots/react_state_machine.jpg" alt="react_fsm" class="react-fsm"/>
+2. Actions(Interaction or API) change Web Page
 
 --
 ### [React Life Cycle](https://facebook.github.io/react/docs/component-specs.html)
@@ -94,12 +95,9 @@ Facebook, Instagram, WalMart, Wordpress, and [more](http://builtwithreact.io/)
 <img src="./screenshots/react_life_cycle3.png" class="react-lifecycle"/>
 
 --
+### [Some APIs](https://facebook.github.io/react/docs/component-specs.html)
 
-### React Key Concept
-
-1. Web Page is predefined by a FSM(finite state machine)
-    <img src="./screenshots/react_state_machine.jpg" alt="react_fsm" class="react-fsm"/>
-2. Actions(Interaction or API) change Web Page
+![](./screenshots/react_life_cycle1.png)
 
 --
 
