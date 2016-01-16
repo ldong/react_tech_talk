@@ -91,7 +91,7 @@ Facebook, Instagram, WalMart, Wordpress, and [more](http://builtwithreact.io/)
 --
 ### [React Life Cycle](https://facebook.github.io/react/docs/component-specs.html)
 
-![](./screenshots/react_life_cycle2.jpg)
+![](./screenshots/react_life_cycle3.jpg)
 
 --
 
