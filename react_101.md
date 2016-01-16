@@ -22,7 +22,7 @@ controls: true
 * What
 * Why
 * How
-* Demo
+* [Demo](https://jsfiddle.net/ldong/apao5wse/4/embedded/result/)
 
 --
 
@@ -103,7 +103,7 @@ What makes it really fast:
 
 ## Demo
 
-* [Todo List Demo](https://jsfiddle.net/ldong/apao5wse/3/)
+* [Todo List Demo](https://jsfiddle.net/ldong/apao5wse/4/)
 
 --
 
